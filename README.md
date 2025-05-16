@@ -1,8 +1,3 @@
-# multimodal_emotional_analysis
-The uploaded file is a Jupyter Notebook titled **"multilingual\_emotion\_detection\_in\_voice (6).ipynb"**. Here's a summarized README-style explanation for the project based on its contents:
-
----
-
 # Multilingual Emotion Detection in Voice
 
 ## Overview
@@ -60,4 +55,4 @@ This project can be used for applications such as:
 
 ---
 
-Would you like me to extract and explain a specific part of the notebook, such as the model architecture or a code cell?
+
